@@ -2,7 +2,7 @@
 
 A tiny, clean full‑stack app that lets you take a short IELTS‑style multiple‑choice test with a 10‑minute timer, then see your score and review which answers were right/wrong. Includes a super simple admin to add/edit/delete questions.
 
-## How to run (Windows CMD)
+## How to run 
 1) Start the API
 ```bat
 cd Technical_Assignment\server
@@ -177,4 +177,4 @@ Response 200:
 }
 ```
 
-For a deeper description (architecture, UI behavior, DB config), see `PROJECT_OVERVIEW.md`.
+For a deeper description , see `PROJECT_OVERVIEW.md`.
