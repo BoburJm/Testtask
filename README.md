@@ -31,11 +31,7 @@ App: http://localhost:5173
 ## Requirements
 - Node 18+ (or 20+)
 - MongoDB listening on `mongodb://localhost:27017`
-  - Don’t have MongoDB? Run it with Docker:
-```bat
-docker run -d --name mongo -p 27017:27017 mongo:7
-```
-- Optional env (`Technical_Assignment\server\.env`):
+ env (`Technical_Assignment\server\.env`):
 ```
 MONGO_URI=mongodb://127.0.0.1:27017/ielts_mock
 PORT=4000
